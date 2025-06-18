@@ -1,6 +1,6 @@
 # Rodrigo Romero
 
-Estudiante de Tecnicatura Universitaria en Programación en UTN.  
+Estudiante de Tecnicatura Universitaria en Programación en la UTN.  
 Apasionado por el desarrollo frontend con enfoque en interfaces modernas, limpias y funcionales.  
 Actualmente trabajando con React, TypeScript y Vite, integrando soluciones reales con autenticación, consumo de APIs, Cloudinary y MercadoPago.
 
@@ -8,7 +8,7 @@ Actualmente trabajando con React, TypeScript y Vite, integrando soluciones reale
 
 ## Sobre mí
 
-Me encuentro en el cuarto semestre de la TUP, con una sólida base en programación orientada a objetos, estructuras de datos y desarrollo web.  
+Me encuentro en el cuarto semestre de la Tecnicatura Universitaria en Programacion, con una sólida base en programación orientada a objetos, estructuras de datos y desarrollo web.  
 En mis proyectos busco aplicar buenas prácticas, mantener una arquitectura clara y trabajar con tecnologías modernas del ecosistema frontend.
 
 ---
