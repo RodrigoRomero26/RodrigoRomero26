@@ -2,7 +2,7 @@
 
 Estudiante de Tecnicatura Universitaria en Programación en la UTN.  
 Apasionado por el desarrollo frontend con enfoque en interfaces modernas, limpias y funcionales.  
-Actualmente trabajando con React, TypeScript y Vite, integrando soluciones reales con autenticación, consumo de APIs, Cloudinary y MercadoPago.
+Actualmente trabajando con React, TypeScript y Vite, consumo de APIs.
 
 ---
 
